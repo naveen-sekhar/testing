@@ -71,6 +71,12 @@ const ContactPage = () => {
             Ready to collaborate on cybersecurity projects or discuss opportunities? 
             Let's connect and build something secure together.
           </p>
+            <a
+              href="mailto:alex.johnson@email.com"
+              className="inline-flex items-center px-6 py-3 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-lg font-medium hover:bg-slate-800 dark:hover:bg-slate-100 transition-colors duration-200"
+            >
+              <span>Let's Connect</span>
+            </a>
         </div>
       </section>
 
