@@ -165,12 +165,12 @@ const ExperiencePage = () => {
               I'm actively seeking internships, entry-level positions, and collaborative opportunities 
               in cybersecurity and IoT security domains.
             </p>
-            <a
-              href="/contact"
+            <Link
+              to="/contact"
               className="inline-flex items-center px-6 py-3 bg-slate-900 dark:bg-white text-white dark:text-slate-900 rounded-lg font-medium hover:bg-slate-800 dark:hover:bg-slate-100 transition-colors duration-200"
             >
               <span>Let's Connect</span>
-            </a>
+            </Link>
           </div>
         </div>
       </section>
