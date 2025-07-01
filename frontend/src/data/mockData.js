@@ -1,12 +1,12 @@
 // Mock data for the portfolio
 
 export const personalInfo = {
-  name: "Alex Johnson",
+  name: "Naveen Sekhar",
   title: "Cybersecurity & IoT Student",
-  email: "alex.johnson@email.com",
+  email: "naveensekhar06@email.com",
   phone: "+1 (555) 123-4567",
   location: "San Francisco, CA",
-  github: "https://github.com/alexjohnson",
+  github: "https://github.com/naveen-sekhar",
   linkedin: "https://linkedin.com/in/alexjohnson",
   website: "https://alexjohnson.dev"
 };
